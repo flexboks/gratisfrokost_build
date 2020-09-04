@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a29c2b96.chunk.css",
+    "main.js": "/static/js/main.ae498b63.chunk.js",
+    "main.js.map": "/static/js/main.ae498b63.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0e64d81d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0e64d81d.js.map",
+    "static/js/2.100971c5.chunk.js": "/static/js/2.100971c5.chunk.js",
+    "static/js/2.100971c5.chunk.js.map": "/static/js/2.100971c5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.97e9fdd39fd4a155cc58c2e0d0895a6c.js": "/precache-manifest.97e9fdd39fd4a155cc58c2e0d0895a6c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a29c2b96.chunk.css.map": "/static/css/main.a29c2b96.chunk.css.map",
+    "static/js/2.100971c5.chunk.js.LICENSE.txt": "/static/js/2.100971c5.chunk.js.LICENSE.txt",
+    "static/media/HSB_sponsorlogo.png": "/static/media/HSB_sponsorlogo.cec9d786.png",
+    "static/media/App.css": "/static/media/Tiendebytte_frokost_bg.314bc808.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e64d81d.js",
+    "static/js/2.100971c5.chunk.js",
+    "static/css/main.a29c2b96.chunk.css",
+    "static/js/main.ae498b63.chunk.js"
+  ]
+}
